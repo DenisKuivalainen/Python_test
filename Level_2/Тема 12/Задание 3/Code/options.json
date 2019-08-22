@@ -1,0 +1,41 @@
+{
+    "plot":{
+        "period":[
+            2000,
+            2015
+        ],
+        "countries":[
+            "United States",
+            "China",
+            "Japan",
+            "Germany",
+            "United Kingdom",
+            "France",
+            "India",
+            "Italy",
+            "Brazil",
+            "Canada",
+            "Korea, Rep.",
+            "Australia",
+            "Russian Federation",
+            "Spain",
+            "Mexico",
+            "Indonesia",
+            "Netherlands",
+            "Turkey",
+            "Switzerland",
+            "Saudi Arabia"
+        ]
+    },
+    "hist":{
+        "bins": 10
+    },
+    "pie":{
+        "name":"Североамериканская зона свободной торговли",
+        "countries":[
+            "Mexico",
+            "United States",
+            "Canada"
+        ]
+    }
+}

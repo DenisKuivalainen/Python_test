@@ -1,0 +1,27 @@
+{
+    "log_filename":"log.txt",
+    "projects":{
+        "math":{
+            "folders":[
+                {
+                    "src":"C:/Users/Samsung/Desktop/Курсовая работа/Тема 11/Задание 3/1",
+                    "dest":"C:/Users/Samsung/Desktop/Курсовая работа/Тема 11/Задание 3/2"
+                }
+            ],
+            "options":{
+                "confirm":true
+            }
+        },
+        "inf":{
+            "folders":[
+                {
+                    "src":"C:/vuz/inf",
+                    "dest":"G:/backup/inf"
+                }
+            ],
+            "options":{
+                "confirm":false
+            }
+        }
+    }
+}

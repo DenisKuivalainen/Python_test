@@ -1,0 +1,33 @@
+{
+    "log_filename":"log.txt",
+    "projects":{
+        "math":{
+            "folders":[
+                {
+                    "src":"C:/Users/Samsung/Desktop/Курсовая работа/Тема 11/Задание 3/1",
+                    "dest":"C:/Users/Samsung/Desktop/Курсовая работа/Тема 11/Задание 3/2"
+                },
+                {
+                    "src":"C:/Users/Samsung/Desktop/Курсовая работа/Тема 11/Задание 3/3",
+                    "dest":"C:/Users/Samsung/Desktop/Курсовая работа/Тема 11/Задание 3/4"
+                }
+            ],
+            "options":{
+                "confirm":true,
+                "size_max":5
+            }
+        },
+        "inf":{
+            "folders":[
+                {
+                    "src":"C:/vuz/inf",
+                    "dest":"G:/backup/inf"
+                }
+            ],
+            "options":{
+                "confirm":false,
+                "size_max":5
+            }
+        }
+    }
+}
